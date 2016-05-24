@@ -2,6 +2,7 @@
     "name": "idcu/core-bundle",
     "description": "The first bundle from IDCU",
     "keywords": ["idcu", "symfony"],
+    "minimum-stability": "0.0",
     "type": "idcu-bundle",
     "homepage": "https://github.com/idcu/CoreBundle",
     "license": "MIT",
