@@ -1,6 +1,6 @@
 {
     "name": "idcu/core-bundle",
-    "description": "The first bundle from IDCU",
+    "description": "The help bundle for symfony from IDCU",
     "keywords": ["idcu", "symfony"],
     "type": "idcu-bundle",
     "homepage": "https://github.com/idcu/CoreBundle",
